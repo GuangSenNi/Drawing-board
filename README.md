@@ -1,3 +1,3 @@
 # Drawing-board
-Java ，Realize drawing and redrawing.
+Java ， drawing and redrawing.
 include codes
